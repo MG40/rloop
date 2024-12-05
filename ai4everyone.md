@@ -1,193 +1,41 @@
-Women coders are in increasing demand as the tech industry aims to make itself more representative of its users with diversified teams, products, and online experiences.
+Returning to the IT workforce as a system administrator after a break is a commendable decision, and your prior experience is a valuable asset. To navigate your return to the industry, consider updating your technical skills by assessing the changes that have occurred during your absence. Technology evolves rapidly, so familiarize yourself with the latest trends in system administration, such as cloud computing, virtualization, automation, and cybersecurity. Online learning platforms like Coursera, Udemy, and LinkedIn Learning offer courses that can help you refresh and expand your knowledge in areas like Linux administration, Windows Server management, and especially cloud services like Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP), which have become integral to modern IT infrastructure.
 
-Today, public and private tech organizations are creating and supporting initiatives to encourage women and girls to explore career opportunities in coding. Their goal is to increase the participation of women in software development and other STEM fields as a way to benefit from the skills, creativity, and insight that comes with female and gender nonconforming lived experiences. The increased participation of women in tech will also improve and evolve the development process by making it more inclusive and representative of user needs.
+Earning relevant certifications can enhance your credentials and demonstrate your commitment to potential employers. Cloud certifications are particularly valuable in today's market. Consider pursuing certifications such as AWS Certified Solutions Architect – Associate, AWS Certified SysOps Administrator, Microsoft Certified: Azure Administrator Associate, Google Cloud Professional Cloud Architect, or CompTIA Cloud+. These certifications validate your skills in deploying, managing, and operating systems on cloud platforms, which is increasingly important as organizations migrate to cloud-based solutions.
 
-A report by AI software vendor Celential.ai states that women account for 36% of all STEM graduates in the U.S., but only 21% of software engineers.
+Leverage your previous experience by updating your resume to highlight your past roles and responsibilities, emphasizing your achievements and the impact you had in those positions. Many foundational system administration skills remain relevant, so draw parallels between your previous experience and current industry requirements, especially where they overlap with cloud technologies. To bridge any knowledge gaps, engage in hands-on practice by setting up a home lab environment where you can experiment with cloud services. Many cloud providers offer free tiers or trial accounts that allow you to practice deploying virtual machines, configuring networks, and managing storage solutions. Participating in open-source projects can also provide practical experience and showcase your skills to potential employers.
 
-Deloitte Global estimates that in 2022, 33% of the workforce of global technology firms are women—a 2% increase from 2019, which the company notes seems small but actually represents “notable progress.”
+Networking professionally is crucial; reconnect with former colleagues to let them know you're returning to the field—they might have valuable leads or advice. Become active on professional platforms like LinkedIn, joining groups related to system administration and cloud computing, and attend industry events such as webinars, workshops, and local meetups to connect with other professionals and learn about opportunities. Consider exploring returnship programs offered by organizations to help professionals re-enter the workforce after a break. Programs like Outreachy provide paid, remote internships that support diversity in tech by connecting people from underrepresented groups, including women, with opportunities in open-source projects. Participating in such programs can offer valuable experience, help you update your skills, and expand your professional network.
 
-The U.S. Census Bureau reports that women represented 27% of the STEM workforce in 2019, an increase from 8% in 1970; however, women make up 48% of the total workforce (up from 38% in 1970).
+Globally, numerous organizations and initiatives support women in coding and technology. The Anita Borg Institute organizes the Grace Hopper Celebration, one of the world's largest gatherings of women technologists. Women in Technology International offers resources, networking opportunities, and advocacy for women across the globe. Technovation invites girls worldwide to learn and apply skills needed to solve real-world problems through technology. Girls in Tech operates in over 50 countries, focusing on engagement, education, and empowerment. She Codes in Australia aims to increase diversity by empowering women through coding workshops and events. In Africa, organizations like AkiraChix in Kenya empower young women to pursue technology careers through training, mentorship, and outreach programs. In Latin America, Laboratoria operates in countries like Peru, Mexico, Brazil, and Chile, offering coding bootcamps to women and assisting them in securing jobs in the tech industry. In Asia, initiatives such as Rails Girls and Women Who Code have chapters in countries like Japan, India, and Singapore, providing free programming workshops and support networks.
 
-One significant set of industry efforts is the rise in coding resources and scholarships for women. They play a vital role in making sure software development and other tech fields are available and accessible to underrepresented folks in tech. Read on to learn more about coding education opportunities for women, girls, and nonbinary individuals.
+Scholarships and financial assistance play a crucial role in increasing women's access to technology education globally. Programs like the Adobe Research Women-in-Technology Scholarship and the Schlumberger Foundation's Faculty for the Future grant support women pursuing STEM degrees worldwide, helping them overcome financial barriers and focus on their studies. Early exposure to coding is vital in addressing the gender gap in tech fields. Programs designed for girls include Code to Inspire in Afghanistan, the first coding school for girls in the country, aiming to empower young women with programming skills. Africa Code Week introduces coding to young people across numerous African countries, encouraging girls' participation. CoderDojo is a global volunteer-led community offering free programming clubs for young people, with efforts to include more girls in coding.
 
-Women in Tech History
-From the very beginnings of programming, women have been among its innovators. A few trailblazing female programmers:
+Artificial intelligence is transforming industries worldwide, and including more women in AI is essential for creating equitable and representative technologies. Diversity in AI teams leads to innovative solutions and helps mitigate biases that can arise from homogeneous groups. Organizations like Women in AI operate globally to close the gender gap in the AI sector by educating and inspiring women and raising awareness about diversity in AI. Barriers to women's participation in tech and AI vary across regions but commonly include cultural stereotypes that consider STEM fields as male domains, discouraging girls from these careers. Access to education can be limited in developing countries due to economic or social factors. Workplace discrimination, gender bias, and lack of inclusive policies can deter women from entering or remaining in tech fields. The scarcity of female role models in technology makes it harder for young women to envision career paths in the industry.
 
-Ada Lovelace
-Daughter of the English poet Lord Byron, Ada Lovelace is credited with creating the first computer program in 1843. She wrote it for the Analytical Engine, a prototype mechanical computer designed by mathematician Charles Babbage. Only a portion of the prototype was ever built, but her description of how the machine could be used to compute Bernoulli numbers made a wide range of subsequent technological innovations possible — including an early programming language called Ada.
+Addressing these challenges requires global collaboration among governments, educational institutions, corporations, and nonprofits. Initiatives like the United Nations' Sustainable Development Goals aim to achieve gender equality and empower all women and girls, including increasing their participation in technology and innovation. Utilize career services offered by organizations and local agencies, which may provide career counseling and job placement assistance for individuals re-entering the workforce. Remember that your experience and perspective are valuable assets. The combination of your prior knowledge and newly acquired skills, particularly in cloud computing, can make you a strong candidate in today's IT landscape. Stay confident in your abilities, remain proactive in your job search, and don't hesitate to reach out for support within professional communities.
 
-Grace Hopper
-A Yale Ph.D. in mathematics, Hopper worked on both the prototype Mark 1 computer and UNIVAC, the first all-electronic digital computer.
+The global demand for women coders is increasing as the tech industry seeks to better represent its diverse user base through inclusive teams and products. Worldwide, both public and private organizations are actively creating and supporting initiatives to encourage women and girls to explore careers in coding. The aim is to enhance women's participation in software development and other STEM fields, leveraging the unique skills, creativity, and insights that women and gender-nonconforming individuals bring. By boosting women's involvement in tech globally, the development process becomes more inclusive and representative of user needs, leading to innovations that resonate with people from all walks of life.
 
-A decade later, she created the first compiler, a language which simplifies programming by translating words into the numbers of machine language. She went on to help create COBOL, a language that’s still in use. She’s also credited with coining the terms “bug” and “debugging” as they relate to computer programming.
+Despite advancements, women remain underrepresented in tech roles worldwide. According to UNESCO, women constitute only about 35% of all students enrolled in STEM-related fields of study globally. In engineering, they represent 28%, and in information and communication technology, just 3%. The World Economic Forum reports that women make up only 26% of professionals in artificial intelligence globally. These figures highlight a significant gender gap in the tech industry, underscoring the need for concerted efforts to promote gender equality in STEM fields across the globe.
 
-Susan Kare
-After joining Apple Computer in 1983, Kare made computing more accessible by designing the first widely-used graphical user interface. Her bit-mapped icons for the Macintosh included the trash can for recycling files and the computer disk for saving them. Her smiling computer image, displayed while the machine booted up, earned her the nickname, “the woman who gave Macintosh a smile.”
+Historical contributions of women to technology are evident worldwide. Ada Lovelace from England is often credited as the world's first computer programmer. In the mid-20th century, women like Hedy Lamarr, an Austrian-American actress and inventor, contributed to the development of frequency-hopping spread spectrum technology, which became a precursor to modern wireless communication technologies like Wi-Fi and Bluetooth. In China, Wang Zhenyi, an 18th-century astronomer, made significant contributions to understanding eclipses and the motion of celestial bodies, challenging the gender norms of her time.
 
-She’s gone on to create icons and typefaces for Microsoft, IBM, Facebook, and PayPal. She currently works for Niantic Labs, known for augmented reality games like Pokemon Go.
+Educational pathways for coders vary globally, with some pursuing university degrees in computer science and others attending coding bootcamps or online courses. Coding bootcamps have emerged worldwide as flexible and accessible means to acquire programming skills. These bootcamps are particularly beneficial for women who may face barriers in traditional educational settings due to cultural, economic, or social factors. However, challenges remain, such as ensuring the global recognition of bootcamp certifications and maintaining high-quality education standards across different regions.
 
-How Diversification Efforts Have Informed the Tech Education Industry
-Most coders learn the skills they need in one of two ways: by earning a four-year college degree in a computer-related field or by attending coding bootcamps that focus on specific software-development skills.
+Women pursue careers in coding for various reasons, including the desire to drive innovation, create solutions that address societal challenges, and contribute to the global economy. Coding offers opportunities for creative expression, problem-solving, and participation in a rapidly growing industry. Moreover, coding careers often provide competitive salaries and flexible working arrangements, which can be particularly appealing for women balancing professional and personal responsibilities.
 
-Recruiter.com dispels three myths relating to the readiness of coding bootcamp graduates for programming jobs compared to the preparation that a four-year degree in a computer-related field provides:
+Globally, numerous organizations and initiatives support women in coding and technology. The Anita Borg Institute, founded in the United States but with a global reach, organizes the Grace Hopper Celebration, the world's largest gathering of women technologists. Women in Technology International provides resources, networking opportunities, and advocacy for women in technology across the globe. Technovation invites girls from all over the world to learn and apply skills needed to solve real-world problems through technology. Girls in Tech is an international nonprofit organization focused on the engagement, education, and empowerment of women in technology, with chapters in over 50 countries. She Codes in Australia aims to increase diversity in tech by empowering women to code through workshops and events.
 
-It takes longer than 12 to 16 weeks to gain a meaningful education. Bootcamp students often spend 50 or more hours per week learning specific skill sets that qualify them for entry-level software development positions.
+In Africa, organizations like AkiraChix in Kenya empower young women to pursue careers in technology through training, mentorship, and outreach programs. In Latin America, Laboratoria operates in countries like Peru, Mexico, Brazil, and Chile, offering coding bootcamps to women and helping them secure jobs in the tech industry. In Asia, initiatives like Rails Girls and Women Who Code have chapters in countries such as Japan, India, and Singapore, providing free programming workshops and a support network for women.
 
-Bootcamp graduates aren’t prepared for the interview process. Most coding bootcamps include interview preparation as part of their curriculum. The coding schools may also provide mentorship, early access to employers, and help writing their resumes.
+Scholarships and financial assistance are crucial in increasing women's access to education in technology globally. Programs like the Adobe Research Women-in-Technology Scholarship and the Schlumberger Foundation's Faculty for the Future grant support women pursuing STEM degrees worldwide. These scholarships help women focus on their studies, participate in research and internships, and overcome financial barriers to education.
 
-Bootcamp graduates lack real-world work experience. Bootcamp attendees come from a wide range of backgrounds, and many have extensive work experience in a variety of fields.
+Early exposure to coding is vital in addressing the gender gap in tech fields. Programs designed for girls include Code to Inspire in Afghanistan, the first coding school for girls in that country, aiming to empower young women with in-demand programming skills. Africa Code Week introduces coding to young people across 37 African countries, with a focus on encouraging girls to participate. CoderDojo is a volunteer-led community of free programming clubs for young people worldwide, with efforts to include more girls in coding.
 
-The affordability of bootcamp learning comes in recognition of gender and wage gaps in the workforce. Attending bootcamps is more flexible than most college courses, which helps women and others who have day-to-day caretaking duties and other life commitments. However, not all bootcamps live up to the expectations of attendees, and it becomes difficult for candidates to stand out among job applicants as the number of bootcamp graduates increases.
+Artificial Intelligence is transforming industries worldwide, and the inclusion of more women in AI is essential for creating technologies that are equitable and representative of global populations. Diversity in AI teams leads to more innovative solutions and helps mitigate biases that can arise from homogeneous groups. Organizations like Women in AI operate globally to close the gender gap in the AI sector by educating and inspiring women and raising awareness about diversity in AI.
 
-The best coding bootcamps focus on creating algorithms and data structures, which are the fundamental components of software, and on programming skills rather than simply teaching specific development environments. Also, most bootcamp attendees have some programming or technology background, so their goal is to learn new coding skills or hone existing ones.
+Barriers to women's participation in tech and AI vary across regions but commonly include cultural stereotypes, where in some societies, STEM fields are traditionally considered male domains, discouraging girls from pursuing these careers. Access to education can be limited in developing countries due to economic or social factors. Workplace discrimination, gender bias, and lack of inclusive policies can deter women from entering or remaining in tech fields. The lack of role models, with few visible female leaders in technology, can make it harder for young women to envision a career path in the industry.
 
-Why Women Pursue Careers in Coding
-Perhaps the best reason for women to enter the field of software development is to change the very nature of the industry. Tech companies are often driven by surveillance capitalism and other profit motives that take advantage of consumers rather than help them. Women can lead or participate in tech industry efforts to better serve users and improve society at large–thus redefining the industry from the inside out.
+Addressing these challenges requires global collaboration among governments, educational institutions, corporations, and nonprofit organizations. Initiatives like the United Nations' Sustainable Development Goal 5 aim to achieve gender equality and empower all women and girls, which includes increasing women's participation in technology and innovation.
 
-Coding careers for women are outlets for the creative problem-solving skills and design sensibilities that many women and girls already possess. In addition to being a well-paying career, coding provides women with schedule flexibility that helps promote a healthy work-life balance. Few other fields can match the combination of good pay and flexible scheduling that coding offers.
-
-These are some of the positions that coders may qualify for:
-
-Applications developer
-
-Back-end developer
-
-Front-end developer
-
-Full-stack developer
-
-Mobile developer
-
-DevOps
-
-Software tester
-
-System architect
-
-Resources on Coding Education and Training
-Women Who Code, Opportunities: Scholarships available to women pursuing a career in software engineering and other tech fields, as well as a calendar of upcoming events
-
-Developer.com, Guides: Coding and software development tutorials covering topics such as file handling in Python and how to use pointers in Go
-
-TechBeacon, “Fifty Tips for Improving Your Software Development Game”: Tips ranging from beginning coding topics, such as how to choose which programming language to study, to advanced topics that include iterative development and coding project management
-
-Tech and Coding Scholarships for Women
-Industries, organizations, and society in general benefit from gender equity in coding and other STEM professions. The American Association of University Women (AAUW) identifies four key factors that contribute to the gender gap in STEM professions:
-
-Gender stereotypes and education inequality cause teachers to underestimate girls’ math skills.
-
-Male-dominated cultures are often inherently unwelcoming of other demographics, and may even actively exclude women candidates from the recruitment process.
-
-Fewer role models limit accurate representation of women technicians, scientists, and engineers.
-
-Math anxiety teachers, who are predominantly women, may pass on to their students. This can cause teachers to grade the work of girls more critically than the equivalent work done by boys.
-
-Scholarship programs are available to women interested in pursuing a career as a coder or another technology field helping to close the gender gap in STEM professions.
-
-Women represent 1 in 4 workers in computer and mathematical occupations, according to the U.S. Bureau of Labor Statistics.
-
-About 1 in 6 people working in architecture and engineering occupations are women.
-
-As of 2018 (the most recent year for which figures are available), 21.2% of computer programmers and 19.3% of software developers were women.
-
-Increasing women’s access to higher education opportunities is seen as the most effective way to encourage more women to enter technology fields. Scholarship programs for women allow them to focus on their studies and participate in research and internship programs. However, scholarships for traditional college degree programs differ from those that cover the cost of coding bootcamps for women.
-
-Although they take less time to complete and are more affordable than a four-year degree, coding bootcamps cost about $12,000.
-
-The U.S. Senate Women in STEM Caucus highlights the need for affordable and quality child care so that women aren’t forced to choose between family and their professional goals.
-
-The caucus also recommends more funding for research initiatives at chronically underfunded universities, such as historically Black colleges and universities (HBCUs).
-
-These coding scholarships for women represent the range of financial assistance available to women interested in pursuing a career in technology.
-
-The Grace Hopper Program’s Ada Lovelace Scholarship
-The Grace Hopper Program at Fullstack Academy provides an immersive environment for women and nonbinary individuals to learn software engineering and coding skills. Two scholarships are available through the program:
-
-The Edie Windsor Coding Scholarship is available through a partnership with Lesbians Who Tech. This half-tuition scholarship is offered to gender-nonconforming individuals and LGBTQ+ women.
-
-The Ada Lovelace Scholarship awards $1,000 to qualifying students who pay their full tuition upfront.
-
-Society of Women Engineers (SWE) Scholarships
-SWE scholarships award various amounts to women who are enrolled or plan to enroll in an undergraduate or graduate degree program in engineering or computer science. In 2021, the organization awarded 290 new or renewed scholarships totaling more than $1,220,000. To be eligible, students must identify as a woman and be applying to or enrolled in an ABET-accredited program. They must also have a GPA of at least 3.0 for current undergraduates or at least 3.5 for entering freshmen.
-
-MPower Women in STEM Scholarship
-MPower Financing awards three scholarships annually to women who are non-U.S. citizens or who qualify under the Deferred Action for Childhood Arrivals (DACA) program. Applicants must be enrolled in a full-time STEM-related degree program at a school in the U.S. or Canada, and they must intend to use their degree to “benefit society and the planet.” They must also agree to serve as role models and advocates for women in STEM fields. The company awards a $6,000 grand prize, $2,000 runner-up prize, and a $1,000 honorable mention prize each year.
-
-Elevate Women in Technology Scholarship
-This scholarship is funded by former technology executive Calvin Rosser and is intended to promote women leaders in STEM fields. It awards $500 each year to women at any education level or field of study, so long as they intend to enter a career that “leverages technology to make the world a better place.” Applicants who are active in entrepreneurial or STEM projects are most likely to be awarded the scholarship.
-
-Women in Tech (WIT) Girls Scholarship and WIT Campus Scholarship
-WIT was formed in 1992 with the goal of helping women and girls advance in science, technology, engineering, arts, and mathematics (STEAM) careers. The WIT Girls Scholarship awards between $2,500 and $20,000 to girls who are seniors at a high school in Georgia and who meet specific criteria:
-
-Actively participate in the WIT Girls program
-
-Have a GPA of 3.0 or higher
-
-Demonstrate interest in STEAM careers
-
-Demonstrate leadership in STEAM-related activities
-
-The WIT Campus Scholarship awards up to $10,000 to women who are pursuing a STEAM field of study at a college or university in Georgia. To qualify, they must be enrolled full-time in an undergraduate program in pursuit of their first degree. They must also be active in a WIT Campus program and have a GPA of 3.0 or higher. WIT scholarships are paid directly to recipients’ educational institutions.
-
-Coding Resources for Women
-A variety of groups and organizations are devising innovative approaches to coding education in an effort to increase participation in the field by women and people of color. For example, Code Differently focuses on students who are women or members of other underrepresented groups, who make up 96% of program participants.
-
-These are among the coding resources designed specifically for women coders and software developers.
-
-Women Who Code: Coding Resources
-Among the hundreds of coding tools and training resources available are tutorials for learning how to use Cascading Style Sheets (CSS) for web development and Python practice problems. The resources can be searched by topic, experience level (beginner, intermediate, advanced), and format (tutorial, video, style guide, reference, etc.) Also included are podcasts, challenges, and interactive learning games.
-
-Girls Who Code: College and Career Programs
-The site’s college and career preparation tools are designed for college-age students and women coders who have just begun their careers.
-
-The College Loops program creates a university-level network for women studying a tech field.
-
-The virtual mentoring program provides guidance for women in college from women who hold professional positions in STEM fields.
-
-The annual Hiring Summit introduces job seekers to employers and includes keynote addresses, panels, and workshops.
-
-SheCodes: Hands-On Coding Workshops for Women
-SheCodes sponsors workshops for women at basic, intermediate, and advanced levels of coding experience. Topics covered in the workshops include HTML, CSS, JavaScript, application programming interfaces (API), GitHub, and search engine optimization (SEO).
-
-Code.org: Projects
-The organization hosts millions of public coding projects suitable for children as young as 4 years old in topics as varied as poetry, dance, and Minecraft. It also provides ideas for programming projects in such areas as games, greeting cards, puzzles, flashcards, and other study aids.
-
-Skillcrush: Learn to Code
-Women who aren’t sure whether a coding career is right for them will find tools on this site designed to match their interests with coding career opportunities. Topics addressed on the career page include where to find financial assistance for coding education, user experience design, and a comparison of free versus paid coding lessons.
-
-Coding for Girls
-Coding instruction programs and coding resources designed specifically for girls attempt to address the gender gap in software development and other tech fields at an early age. Code.org points out that learning experiences in grades K-12 have a direct impact on whether students choose a career in computer science. For example, young women who take computer science Advanced Placement (AP) courses in high school are 10 times more likely to major in computer science in college.
-
-The programs described here take different approaches to the same goal: increasing the number of women who choose a career in coding or another tech field.
-
-Girls Who Code: Summer Immersion Program
-“Coding, Sisterhood, Bravery” is the theme for these free two- and six-week coding immersion programs for high school students who identify as girls or nonbinary students. Participants don’t need to have any computer science experience to attend the programs, which include live and virtual classes in HTML, CSS, and JavaScript, as well as a six-week self-paced program in Python and cybersecurity.
-
-Kode With Klossy: 2022 Programs
-This nonprofit offers a free two-week summer program for young women and nonbinary individuals ages 13 to 18. The only requirement is that participants have an interest in coding, regardless of their level of tech experience. The organization notes that while only 2 out of 10 participants have computer science experience prior to attending, after they complete the program, 9 of 10 plan to study computer science and pursue a career in the field.
-
-Girls Dream Code: Code Your Path
-The Code Your Path is a free coding tutorial for girls of color that teaches participants how to build a web app even if they have zero coding experience. The program provides hands-on technology experience while also teaching the fundamentals of coding and web and mobile app development. Other programs offered by Girls Dream Code are CodeTalkz tech workshops and Code-in-Sync hackathons.
-
-Technovation Girls
-Technovation Girls is intended to teach young women ages 8 to 18 leadership and entrepreneurial skills in preparation for careers in technology. The program recruits volunteer mentors to work with teams of girls as they develop mobile applications designed to help solve real-world problems. The organization works closely with community groups to support local efforts to increase girls’ participation in technology fields.
-
-Girl Up: STEM for Social Good
-Girl Up, sponsored by the United Nations Foundation, attempts to address the underrepresentation of women in STEM fields. The group’s STEM for Social Good program educates and inspires girls to pursue technology education and careers as a way to promote gender equality. Girl Up’s Women in Science (WiSci) STEAM Camps for secondary school girls provide a safe, supportive, girl-centered environment where dozens of teenage girls from many countries can share and collaborate.
-
-ChickTech
-This nonprofit group empowers people of marginalized genders through tech education. Its programs for nonbinary, gender-nonconforming, and female-identifying students include workshops and mentorships for students in grades 9 through 12. ChickTeck addresses the needs of students from all underserved groups, including students of color, LGBTQ+ students, and students who are eligible for free and reduced-price school meals. Among the topics taught in the workshops are robotics, smartphone app development, and 3D printing.
-
-Black Girls Code
-The goal of Black Girls Code is to help Black women and girls find their place as “builders and creators” by developing their coding and other technology skills. The organization’s eight program areas are artificial intelligence, robotics, web design, game design, mobile and app design, virtual reality, 3D printing, and blockchain.
-
-Girl Develop It
-The nonprofit group sponsors classes, projects, and events intended to provide welcoming and supportive environments for women and nonbinary adults to learn coding skills. Its virtual classes cover such topics as data science, e-commerce, user experience (UX), front-end development, and Python. The organization also offers “career conversations” and a virtual hackathon.
-
-The Coding Space
-The Coding Space began in 2015 as an after-school coding program for students of all ages and at all levels of tech expertise. It has since grown to offer classes and camps that teach coding and other computer skills in person and virtually. The programs emphasize computational thinking skills, self-expression, independence, and intellectual confidence.
-
-The group’s GirlCode programs provide instruction in a supportive female-identifying space and focus on making friends, having fun, solving problems, and discovering opportunities.
-
-Creating Software That Represents Everyone
-Bringing women and girls into coding, software development, and other tech fields ensures that tech products are designed to meet the needs of all segments of the population. Diversity of thought fosters innovation, so in addition to informing software that represents everyone, it fundamentally improves and evolves the field. Technology can’t reach its full potential in improving our lives until the people who make tech products look, act, and think like the people who use tech products.
+In conclusion, increasing women's participation in coding and artificial intelligence is a global imperative. It is essential not only for promoting gender equality but also for driving innovation, economic growth, and creating technologies that serve the needs of diverse populations. By supporting educational opportunities, challenging cultural stereotypes, and fostering inclusive workplaces, the global community can empower more women to contribute to the tech industry. This collective effort will ensure that technological advancements benefit all members of society and reflect the rich diversity of the world.
